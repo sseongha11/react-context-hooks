@@ -37,3 +37,5 @@ In a typical React application, data is passed top-down (parent to child) via pr
 ## Accessing Context (part 1)
 
 ## Accessing Context (part 2)
+
+## Updating Context Data
