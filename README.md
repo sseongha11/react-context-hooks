@@ -38,4 +38,6 @@ In a typical React application, data is passed top-down (parent to child) via pr
 
 ## Accessing Context (part 2)
 
-## Updating Context Data
+## Updating Context Data (Section 6)
+
+## Creating Multiple contexts (Section 7)
